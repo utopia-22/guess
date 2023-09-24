@@ -24,7 +24,10 @@ You can also run this game locally on your computer:
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate to the project directory.
 3. Run the following command to install the prompt-sync module locally in your project:
-     npm install prompt-sync
+
+   npm install prompt-sync
+   
 4. Run the game using a command-line JavaScript runtime like Node.js. You can execute the game script.
-     node numberguessing.js
+  
+   node numberguessing.js
 
